@@ -120,10 +120,12 @@ Video Tutorial : Coming Soon
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Visit Our [Blog For Hackers](https://www.hamzaanonime.blogspot.com) !!!
+& Don't Forget To Visit Our [Blog For Hamza Anonime](https://www.hamzaanonime.blogspot.com) !!!
 
 ***Thankyou.***
 ***Keep Visiting..***
-***Check our blog https://www.hamzaanonime.blogspot.com***
+***Check our blog www.hamzaanonime.blogspot.com***
 ***Enjoy.!!! :)***
-<a href="https://www.hamzaanonime.blogspot.com/" rel="dofollwo">Click Here</a>
+<a href="www.hamzaanonime.blogspot.com/" rel="dofollwo">Click Here</a>
+Instagrams :Hamza.anonime
+Facebook:Hmaza Azougagh حمزة أنونيم
