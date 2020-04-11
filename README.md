@@ -2,7 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Anonime7x/fuckadmin.svg)](https://github.com/Anonime7x/fuckadmin/network)
 [![GitHub stars](https://img.shields.io/github/stars/Anonime7x/fuckadmin.svg)](https://github.com/technicaldada/hackerpro/stargazers)
 
-<p align="center">***Pentesing Tools That All Hacker Needs***</p>
+<p align="center">***Tools for Hamza Anonime fuck you admin***</p>
  <img src="logo205x250.gif" alt="fuckadmin_logo" height="205" width="250"> 
 
 ## fuckadmin Menu :
