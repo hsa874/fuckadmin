@@ -97,7 +97,7 @@
 
 Open Terminal and Type : ```git clone https://github.com/Anonime7x/Fuckadmin.git```
 
-After Downloading The File Type : ```sudo cd hackerpro && sudo python2 fuckadmin.py```
+After Downloading The File Type : ```sudo cd fuckadmin && sudo python2 fuckadmin.py```
 
 Video Tutorial : Coming Soon
 
