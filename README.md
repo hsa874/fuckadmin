@@ -128,4 +128,4 @@ Thats It... If You Like This Repo. Please Share This With Your Friends..
 ***Enjoy.!!! :)***
 <a href="www.hamzaanonime.blogspot.com/" rel="dofollwo">Click Here</a>
 Instagrams :Hamza.anonime
-Facebook:Hmaza Azougagh 
+Facebook:Hamza Azougagh 
