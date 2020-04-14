@@ -127,5 +127,5 @@ Thats It... If You Like This Repo. Please Share This With Your Friends..
 ***Check our blog www.hamzaanonime.blogspot.com***
 ***Enjoy.!!! :)***
 <a href="www.hamzaanonime.blogspot.com/" rel="dofollwo">Click Here</a>
-Instagrams :Hamza.anonime
-Facebook:Hamza Azougagh 
+Instagrams :https://instagram.com/hamza.anonime?igshid=1hlgkw8ipxthc
+Facebook:https://www.facebook.com/profile.php?id=100027145343450
